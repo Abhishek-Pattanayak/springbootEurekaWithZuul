@@ -3,7 +3,7 @@
 
 ## Explanation
 - This is an enhancement of my last project SpringbootwithJPA-H2, which is now Zuul gateway API enabled.
-- This project is a complete package of ***Springboot(microservices) + Eureka(with Feign) + JPA/Hibernate+H2-In memory DB + Zuul gateway service.***
+- This project is a complete package of ***Springboot(microservices) + Eureka(with Feign) + JPA/Hibernate + H2-In memory DB + Zuul gateway service.***
 
 ## Steps to test the application
 - Start all services and hit the URLs through Postman by replacing Zuul's ***port: 8762***
